@@ -1,0 +1,8 @@
+{
+  "name": "Remix WinZO Games",
+  "description": "Play real-time competitive multiplayer games, 1v1 cash battles, World War card tournaments, and instant withdrawal wallet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
